@@ -49,8 +49,3 @@ The bus reservation system portal is a web-based application that enables users 
 * Spring Data JPA
 * Hibernate
 * MySQL
-
-`https://localhost:8000/`
- 
-`http://localhost:8000/swagger-ui/`
-
